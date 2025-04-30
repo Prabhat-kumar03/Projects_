@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    display :flex;
+    border : 2px black;
+    border-radius: 2px;
+    box-shadow: 3px green;
+}
+.box_1{
+    align-items: justify;
+    border:solid blue;
+    border-radius: 5px;
+    padding:10px
+}
+h2 {
+    color : purple;
+    text-align: center;
+}
+.btn-container{
+    gap : 20px;
+}
+.para-text{
+    color : lawngreen;
+    text-align: center;
+    background-color: brown;
+}
